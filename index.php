@@ -15,7 +15,7 @@ for ($i= 1; $i <= 24; $i++) ///IMPORTANT ,check the folder, see how many picture
 {
 echo" <img width='400' height='540' src=";
 /**geturl**/ echo "https://i.nhentai.net/galleries";
-echo "/1345174/"; ///put nh code galleries here [NH GALLERY CODE NOT DOUJIN CODE]
+echo "/325651/"; ///put nh code galleries here [NH GALLERY CODE NOT DOUJIN CODE]
 echo $i; echo".jpg"; ///check nh folder first, if png format just change it
 echo ">";
 
